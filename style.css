@@ -1,0 +1,71 @@
+.banner {
+    background: url("https://rm.id/images/berita/750x390/transmart-resmi-buka-kembali-di-tangerang-city_145378.jpg") 
+    no-repeat center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #e1e42f;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color:rgb(195, 20, 17);
+    background-color: blue;
+}
+.persegi{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: rgb(214, 217, 28);
+    background-color: rgb(18, 235, 50);
+}
+.segitiga{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: rgb(214, 217, 28);
+    background-color: rgb(11, 11, 2);
+}
+
+
+.lingkaran i{
+    position: relativ;
+    top: 30px;
+}
+.persegi i{
+    position: relativ;
+    top: 30px;
+}
+
+.segitiga i{
+    position: relativ;
+    top: 30px;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+.tim img{
+    width: 250px;
+    border: 10px solid #cccc;
+}
+.client img {
+    height: auto;
+    max-height: 10px;
+}
+
+.kontak{
+    background: url("https://p4.wallpaperbetter.com/wallpaper/910/11/748/background-fruit-vegetables-cuts-hd-wallpaper-preview.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #FFF;
+}
